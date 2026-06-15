@@ -1,4 +1,4 @@
-# MaRisk-Gap-Analyse Tool
+# Vibe Coding Projekt: MaRisk-Gap-Analyse Tool 
 Automatisierte MaRisk-Gap-Analyse: Das Tool extrahiert regulatorische Texte aus BaFin-PDFs, gleicht sie mit Bestandsfassungen ab und visualisiert Änderungen per Diff-Anzeige. Inkl. Dashboard zur Zuweisung von Status, Teams und Prioritäten sowie CSV-Export für Maßnahmenpläne. Ideal für Compliance & Audit.
 
 ## Funktionen
